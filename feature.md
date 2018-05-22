@@ -22,3 +22,4 @@ ajout mot
 jrajoute ligne
 et nouvelle ligne
 rajoute ligne avec espace
+et encore ligne sans espace cette fois
